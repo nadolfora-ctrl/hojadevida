@@ -15,3 +15,9 @@ Nombre Isai zabala machado
 Edad: 17
 Profesión: Estudiante Ingenieria en sistemas
 Cargo: Estudiante
+
+Nombre Nicolas Adolfo Ramirez
+Edad: 66
+Profesión: Docente universitario
+Cargo: Estudiante
+
